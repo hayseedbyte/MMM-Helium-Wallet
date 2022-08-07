@@ -7,7 +7,8 @@ Uses the [helium](https://docs.helium.com/api/blockchain/introduction/) and [coi
 
 Also, thanks to [nhalstead for his currencies.json](https://gist.github.com/nhalstead/4c1652563dd13357ab936fc97703c019)
 
-![helium-wallet screenshot](screenshot.png)
+![helium-wallet usd screenshot](screenshot.png)
+![helium-wallet uah screenshot](screenshot-uah.png)
 
 ## Using the module
 
