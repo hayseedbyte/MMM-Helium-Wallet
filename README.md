@@ -7,6 +7,8 @@ Uses the [helium](https://docs.helium.com/api/blockchain/introduction/) and [coi
 
 Also, thanks to [nhalstead for his currencies.json](https://gist.github.com/nhalstead/4c1652563dd13357ab936fc97703c019)
 
+![helium-wallet screenshot](screenshot.png)
+
 ## Using the module
 
 To use this module, add the following configuration block to the modules array in the `config/config.js` file:
