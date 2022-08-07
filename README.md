@@ -1,4 +1,4 @@
-# MMM-Helium
+# MMM-Helium-Wallet
 
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
@@ -15,7 +15,7 @@ To use this module, add the following configuration block to the modules array i
 var config = {
   modules: [
     {
-      module: 'MMM-Helium',
+      module: 'MMM-Helium-Wallet',
       position: 'bottom_right'
       config: {
         // See below for configurable options
