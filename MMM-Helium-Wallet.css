@@ -1,0 +1,22 @@
+/*
+ *
+ * MMM-Helium
+ *
+ * Clinton Thomas
+ * MIT Licensed.
+ */
+.showBalance {
+  color: white;
+  padding: 1%;
+}
+.showValue {
+  color: white;
+}
+
+.helium-wrapper {
+  display: grid;
+}
+.MMM-Helium {
+  padding: 5px;
+  color: white;
+}
