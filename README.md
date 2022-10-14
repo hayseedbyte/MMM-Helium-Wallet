@@ -19,11 +19,12 @@ var config = {
   modules: [
     {
       module: 'MMM-Helium-Wallet',
-      position: 'bottom_right'
+      position: 'bottom_right',
+      header: 'Helium Wallet Balance',
       config: {
         // See below for configurable options
-        address: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-        currency: 'usd'
+        address: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+        currency: 'usd',
       },
     },
   ],
@@ -36,4 +37,4 @@ var config = {
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `address`  | _Required_ Your Helium Wallet Address                                                                                                                                                                                                                                                                                                    |
 | `currency` | _Required_ What currency to display. Options are: 'usd', 'ars', 'aud', 'bmd', 'brl', 'cad', 'chf', 'clp', 'cny', 'czk', 'dkk', 'eur', 'gbp', 'hkd', 'huf', 'idr', 'ils', 'inr', 'jpy', 'krw', 'lkr', 'mxn', 'myr', 'ngn', 'nok', 'nzd', 'php', 'pkr', 'pln', 'rub', 'sar', 'sek', 'sgd', 'thb', 'try', 'twd', 'uah', 'vef', 'vnd', 'zar' |
-|            |
+|       `header` | _Optional_ What, if any, text you'd like to be at the top of the module.
