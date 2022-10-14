@@ -138,8 +138,8 @@ Module.register('MMM-Helium-Wallet', {
 
   getTranslations: function () {
     return {
-      //en: 'translations/en.json',
-    //  es: 'translations/es.json',
+      en: 'translations/en.json',
+      es: 'translations/es.json',
     };
   },
 });
