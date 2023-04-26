@@ -1,5 +1,7 @@
 # MMM-Helium-Wallet
 
+NO LONG WORKS SINCE MIGRATION TO SOLANA
+
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
 It displays your Helium(HNT) wallet balance and the value in your chosen currency.
